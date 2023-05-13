@@ -1,0 +1,13 @@
+com\example\accounts\controller\AccountsController.class
+com\example\accounts\model\Card.class
+com\example\accounts\model\Customer.class
+com\example\accounts\model\Loan.class
+com\example\accounts\repository\AccountsRepository.class
+com\example\accounts\model\CustomerDetails.class
+com\example\accounts\model\Properties.class
+com\example\accounts\model\AccountsServiceConfig.class
+com\example\accounts\service\client\LoansFeignClient.class
+com\example\accounts\ServletInitializer.class
+com\example\accounts\AccountsApplication.class
+com\example\accounts\service\client\CardsFeignClient.class
+com\example\accounts\model\Accounts.class
